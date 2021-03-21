@@ -1,7 +1,7 @@
 # Instructions to set up CDK
 
 1. Install CDK - 'sudo npm install -g aws-cdk'
-2. Install the S3 CDK package - 'sudo pip3 install aws_cdk.aws_s3'
+2. Install the S3 CDK package - 'sudo pip3 install aws-cdk.aws-s3'
 3. Ensure CDK was installed - 'cdk --version'
 4. Create a folder called "cdk" and cd into folder
 5. Initialize an environment - 'cdk init app --language python'
