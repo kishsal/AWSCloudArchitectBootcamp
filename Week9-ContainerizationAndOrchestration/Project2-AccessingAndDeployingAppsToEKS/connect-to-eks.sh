@@ -1,0 +1,1 @@
+aws eks --region us-east-1 update-kubeconfig --role arn:aws:iam::727235799305:user/cloudskillseks --name cloudskills-eks
